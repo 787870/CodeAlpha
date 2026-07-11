@@ -1,6 +1,6 @@
 # CodeAlpha Finance & Investment Analysis Internship
 
-**Author:** A. Mohammed Aslam | [Connect on LinkedIn]([www.linkedin.com/in/mohammed-aslam-a-363568298])
+**Author:** A. Mohammed Aslam | [Connect on LinkedIn]([ www.linkedin.com/in/mohammed-aslam-a-363568298 ])
 
 Welcome to my portfolio repository documenting the analytical pipelines, visualization dashboards, and financial models developed during the CodeAlpha Finance & Investment Analysis Internship program. 
 
