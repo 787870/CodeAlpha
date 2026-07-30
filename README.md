@@ -19,12 +19,13 @@ Welcome to my portfolio repository documenting the analytical pipelines, visuali
 * **Objective:** Choose 3 cryptocurrencies (Bitcoin, Ethereum, and Solana) to analyze 12-month performance trajectories, price extremes, and volatility metrics.
 * **Deliverables:** A complete analytical spreadsheet (`.xlsx`) with comparison visualizations and an Executive Research Report (`.pdf`) detailing risk evaluation and strategic recommendations.
 * **Status:** Successfully completed. Extracted daily historical closing prices via `GOOGLEFINANCE` (July 2025 – July 2026), modeled risk-return profiles (-39.65% BTC, -44.59% ETH, -55.20% SOL), and formulated a Core-Satellite allocation framework with Dollar-Cost Averaging (DCA).
+
 ---
 
-### 💼 Task 3: Investment Portfolio Creation (📅 Planned)
-*   **Objective:** Build a hypothetical investment portfolio worth ₹1,00,000.
-*   **Deliverables:** An asset allocation model across stocks, ETFs, and crypto with financial rationale, submitted via a Google Sheet and a 1–2 page explanation PDF.
-*   **Status:** Pending.
+### 💼 [Task 3: Investment Portfolio Creation](./Task%203) ( ✅ Completed )
+* **Objective:** Build a hypothetical investment portfolio worth ₹1,00,000 diversified across equities, ETFs, and crypto with financial rationale.
+* **Deliverables:** A multi-asset allocation spreadsheet (`.xlsx`) and an Executive Investment Memorandum (`.pdf`) featuring visual charts and risk management frameworks.
+* **Status:** Successfully completed. Modeled a balanced 50/35/15 capital distribution across Reliance, TCS, Infosys, Nifty 50 BeES, Gold BeES, Bitcoin, and Ethereum, achieving a projected weighted annual return of 13.78%.
 
 ---
 
