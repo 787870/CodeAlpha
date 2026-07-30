@@ -15,11 +15,10 @@ Welcome to my portfolio repository documenting the analytical pipelines, visuali
 
 ---
 
-### 🪙 Task 2: Cryptocurrency Portfolio Analysis (⏳ Next Up)
-*   **Objective:** Choose 3 cryptocurrencies (e.g., BTC, ETH, SOL) and prepare a performance and risk analysis report over the past 12 months.
-*   **Deliverables:** Google Sheet models + PDF report showing insights and recommendations.
-*   **Status:** Data extraction and environment setup in progress.
-
+### 🪙 [Task 2: Cryptocurrency Portfolio Analysis](./Task%202) ( ✅ Completed )
+* **Objective:** Choose 3 cryptocurrencies (Bitcoin, Ethereum, and Solana) to analyze 12-month performance trajectories, price extremes, and volatility metrics.
+* **Deliverables:** A complete analytical spreadsheet (`.xlsx`) with comparison visualizations and an Executive Research Report (`.pdf`) detailing risk evaluation and strategic recommendations.
+* **Status:** Successfully completed. Extracted daily historical closing prices via `GOOGLEFINANCE` (July 2025 – July 2026), modeled risk-return profiles (-39.65% BTC, -44.59% ETH, -55.20% SOL), and formulated a Core-Satellite allocation framework with Dollar-Cost Averaging (DCA).
 ---
 
 ### 💼 Task 3: Investment Portfolio Creation (📅 Planned)
