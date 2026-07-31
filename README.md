@@ -29,10 +29,10 @@ Welcome to my portfolio repository documenting the analytical pipelines, visuali
 
 ---
 
-### 📝 Task 4: Mini Project - Market Research / Investment Strategy (📅 Planned)
-*   **Objective:** Prepare a 5–6 page comprehensive research report analyzing stock market vs. cryptocurrency trends, risk management in investments, and the future outlook of selected investment sectors.
-*   **Deliverables:** PDF format report utilizing charts, analytical insights, and references.
-*   **Status:** Pending.
+### 📑 [Task 4: Mini Project – Market Research & Investment Strategy](./Task%204) ( ✅ Completed )
+*   **Objective:** Prepare an institutional 5–6 page research report examining stock market vs. cryptocurrency trends, risk management principles, and the future outlook of selected investment sectors.
+*   **Deliverables:** A 6-page Capstone Research Report (`.pdf`) featuring comparative macroeconomic tables, 2 embedded visual charts, and an academic bibliography.
+*   **Status:** Successfully completed. Evaluated drawdown velocity and beta differentials across equities, ETFs, and digital assets, analyzed structural sector outlooks (IT Services, Energy, DeFi, Precious Metals), and integrated the ₹1,00,000 multi-asset allocation model as a strategic case study.
 
 ---
 
